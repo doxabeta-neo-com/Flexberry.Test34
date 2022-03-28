@@ -1,0 +1,22 @@
+﻿{
+  "applicationCaption": "Test34",
+  "applicationTitle": "Test34",
+  "items": [
+    {
+      "link": null,
+      "menuName": "test34",
+      "caption": "Test34",
+      "title": "Test34",
+      "children": [
+        {
+          "link": "i-i-s-test34-new-class1-l",
+          "menuName": null,
+          "caption": "New class1",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
